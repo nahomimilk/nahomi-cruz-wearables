@@ -1,4 +1,4 @@
-# Plantilla Just the Docs (para clase)
+# Plantilla Just the Docs
 
 Esta es una **plantilla de documentación** basada en **Just the Docs** (Jekyll) para que tus alumnos puedan:
 
@@ -19,7 +19,7 @@ Esta es una **plantilla de documentación** basada en **Just the Docs** (Jekyll)
 
 ---
 
-## Inicio rápido (recomendado): Fork + Codespaces + GitHub Pages
+## Inicio rápido: Fork + Codespaces + GitHub Pages
 
 ### 1) Copia el repositorio (Fork)
 
