@@ -74,7 +74,7 @@ Este archivo se inserta en el `<head>` del sitio y hace 3 cosas:
 2)Define el favicon.
 3)Inserta el logo **antes del texto** del título del sitio (en la barra lateral / encabezado, según el tema).
 
-Código relevante (simplificado):
+Código relevante:
 
 ```html
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
