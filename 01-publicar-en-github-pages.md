@@ -180,3 +180,8 @@ GitHub te mostrará tu URL con este formato:
 - [ ] Activaste **Settings → Pages** con `main` y `/ (root)`.
 - [ ] En **Actions** la ejecución está en verde.
 - [ ] Tu URL abre y el menú lateral aparece.
+
+--
+
+## Siguiente sección
+[Estructura del repositorio](02-estructura-del-repo.md)
