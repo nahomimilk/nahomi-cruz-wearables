@@ -1,18 +1,18 @@
 /* === HEADER (barra superior) === */
-.site-header { background-color: #E00034 !important; }
+.site-header { background-color: #9e9e9e !important; }
 .site-title, .site-nav a { color: #ffffff !important; }
 
 /* === ENLACES EN CONTENIDO (sin morado/azul y con subrayado del color) === */
-:root { --link-color: #E00034; }
+:root { --link-color: #777777; }
 a, a:visited { color: var(--link-color); }
-a { text-decoration-color: rgba(224, 0, 52, 0.4); }
-a:hover { color: #b00028; text-decoration-color: rgba(176, 0, 40, 0.6); }
-a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
+a { text-decoration-color: rgba(221, 221, 221, 0.4); }
+a:hover { color: #3b3b3b; text-decoration-color: rgba(221, 221, 221, 0.4); }
+a:focus { outline: 2px solid #a8a8a8; outline-offset: 2px; }
 
 /* === SIDEBAR ROJO COMPLETO === */
 .side-bar,
 .side-bar .site-nav,
-.side-bar .nav-list { background-color: #E00034 !important; }
+.side-bar .nav-list { background-color: #505050 !important; }
 
 /* Título del sitio en el sidebar */
 .side-bar .site-title {
@@ -30,12 +30,12 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
   background: none !important;            /* quita el gradiente lila */
 }
 .nav-list .nav-list-link.active {
-  color: #FFD5DE !important;
+  color: #c7c7c7 !important;
   font-weight: 500;
   background-color: rgba(255,255,255,0.12) !important;
 }
 .nav-list .nav-list-link:hover {
-  color: #FFD5DE !important;
+  color: #a9a9a9 !important;
   background-color: rgba(255,255,255,0.08) !important;
 }
 
