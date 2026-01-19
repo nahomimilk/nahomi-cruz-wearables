@@ -40,7 +40,7 @@ En este curso trabajaremos **solo con GitHub Pages + Codespaces**. La meta es qu
       └─ (tus PDFs)
 ```
 
-### ¿Qué hace cada cosa? (en una frase)
+### ¿Qué hace cada cosa? 
 
 - **`_config.yml`**: configuración del sitio (titulo, url/baseurl, tema, opciones).
 - **`README.md`**: instrucciones para humanos (como clonar/fork, como publicar).
